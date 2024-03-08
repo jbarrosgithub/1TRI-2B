@@ -7,13 +7,13 @@
     background-color: #CD1717;
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 12px 0;
 }
 
 .cabecalho-imagem{
-    align left: ;
+      : ;
     width: 20%;
 }
 
