@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #CD1717;
+    background-image: -moz-linear-gradient(to top,red, black);
     color: white;
     display: flex;
     justify-content: space-between;
@@ -21,11 +21,4 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
-}
-.cabecalho2 {
-    background-color: #1940C9;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 12px ;
 }
