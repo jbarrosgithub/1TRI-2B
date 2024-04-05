@@ -4,8 +4,7 @@
 }
 
 .cabecalho {
-    background-image: -moz-linear-gradient(to top,red, black);
-    color: white;
+    background-image: -moz-linear-gradient(top,red, black);
     display: flex;
     justify-content: space-between;
     align-items: center;
